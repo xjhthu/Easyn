@@ -1,0 +1,9 @@
+build/
+.cache
+.vscode
+*.swp
+__pycache__
+OpenTimer/bin/*
+innovus.*
+*.gz
+timingReports/
